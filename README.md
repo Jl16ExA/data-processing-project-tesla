@@ -1,1 +1,7 @@
-# data-processing-project-tesla
+# "Optimización de la Seguridad Vial y Eficiencia de Conducción en Entornos Urbanos: Un Análisis de Datos de Colisiones para la Innovación de Tecnologías de Vehículos Autónomos de Tesla"
+
+En la era de la movilidad inteligente y sostenible, Tesla se ha posicionado como un líder indiscutible en la revolución de los vehículos eléctricos y la conducción autónoma. La compañía se esfuerza constantemente por mejorar la seguridad, la eficiencia y la experiencia del usuario en sus vehículos. En este contexto, la ciudad de Nueva York, con su densa red de tráfico y alta incidencia de accidentes viales, ofrece un laboratorio urbano único para el desarrollo y la prueba de tecnologías avanzadas de conducción.
+
+Reconociendo la complejidad de este desafío, Tesla ha iniciado una colaboración con (Nuestera consultora) para llevar a cabo un análisis exhaustivo de los datos de colisiones de vehículos en Nueva York. Este proyecto tiene como objetivo aprovechar los insights derivados de los datos para informar y optimizar las tecnologías de conducción autónoma y asistencia al conductor de Tesla, así como para identificar rutas de prueba óptimas que aseguren una navegación segura y eficiente en entornos urbanos.
+
+La investigación se centrará en el análisis del conjunto de datos "Motor Vehicle Collisions - Vehicles" proporcionado por el Departamento de Policía de Nueva York (NYPD), que abarca detalles sobre cada vehículo involucrado en colisiones desde abril de 2016. A través de un enfoque analítico riguroso, este estudio buscará identificar patrones, factores contribuyentes y tendencias en los accidentes viales, con el fin de generar recomendaciones concretas para la mejora continua de las soluciones de movilidad de Tesla.

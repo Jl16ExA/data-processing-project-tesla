@@ -1,7 +1,42 @@
-# "Optimización de la Seguridad Vial y Eficiencia de Conducción en Entornos Urbanos: Un Análisis de Datos de Colisiones para la Innovación de Tecnologías de Vehículos Autónomos de Tesla"
+# Proyecto de Análisis de Datos de Colisiones Vehiculares para Tesla
 
-En la era de la movilidad inteligente y sostenible, Tesla se ha posicionado como un líder indiscutible en la revolución de los vehículos eléctricos y la conducción autónoma. La compañía se esfuerza constantemente por mejorar la seguridad, la eficiencia y la experiencia del usuario en sus vehículos. En este contexto, la ciudad de Nueva York, con su densa red de tráfico y alta incidencia de accidentes viales, ofrece un laboratorio urbano único para el desarrollo y la prueba de tecnologías avanzadas de conducción.
+## Introducción
+Este proyecto se enfoca en el análisis de datos de colisiones vehiculares en la ciudad de Nueva York con el objetivo de brindar información valiosa a Tesla para mejorar la seguridad y eficiencia de sus tecnologías de conducción autónoma y asistencia al conductor. El conjunto de datos utilizado proviene del Departamento de Policía de Nueva York (NYPD) y contiene detalles sobre cada vehículo involucrado en colisiones desde abril de 2016. Este es un proyecto académico realizado para la clase de Procesamiento de Datos a Gran Escala.
 
-Reconociendo la complejidad de este desafío, Tesla ha iniciado una colaboración con (Nuestera consultora) para llevar a cabo un análisis exhaustivo de los datos de colisiones de vehículos en Nueva York. Este proyecto tiene como objetivo aprovechar los insights derivados de los datos para informar y optimizar las tecnologías de conducción autónoma y asistencia al conductor de Tesla, así como para identificar rutas de prueba óptimas que aseguren una navegación segura y eficiente en entornos urbanos.
+## Integrantes
+- Juan David Lopez
+- Juan Diego Gonzalez
+- Nicolas Samuel Martin
 
-La investigación se centrará en el análisis del conjunto de datos "Motor Vehicle Collisions - Vehicles" proporcionado por el Departamento de Policía de Nueva York (NYPD), que abarca detalles sobre cada vehículo involucrado en colisiones desde abril de 2016. A través de un enfoque analítico riguroso, este estudio buscará identificar patrones, factores contribuyentes y tendencias en los accidentes viales, con el fin de generar recomendaciones concretas para la mejora continua de las soluciones de movilidad de Tesla.
+## Objetivos
+- Identificar patrones, factores contribuyentes y tendencias en los accidentes viales.
+- Generar recomendaciones concretas para la mejora continua de las soluciones de movilidad de Tesla.
+- Informar el desarrollo y ajuste de los algoritmos de conducción autónoma y asistencia al conductor.
+- Planificar rutas de prueba óptimas para vehículos autónomos en entornos urbanos.
+
+## Contenido
+1. **Introducción y Selección de Datos**: Descripción del proyecto, objetivos y selección del conjunto de datos.
+2. **Exploración de Datos**: Análisis exploratorio de los datos, incluyendo visualizaciones y estadísticas descriptivas.
+3. **Preguntas de Negocio**: Listado de preguntas clave que se busca responder con el análisis.
+4. **Filtros, Limpieza y Transformación Inicial**: Preprocesamiento de los datos para garantizar su calidad y adecuación para el análisis.
+5. **Reporte de Calidad de Datos**: Evaluación de la calidad de los datos y técnicas propuestas para tratar valores faltantes.
+6. **Análisis Adicionales**: Más visualizaciones y análisis en profundidad para responder las preguntas de negocio.
+7. **Conclusiones y Recomendaciones**: Resumen de los hallazgos clave y recomendaciones para Tesla.
+
+## Tecnologías Utilizadas
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Cómo Utilizar este Repositorio
+1. Clona este repositorio en tu máquina local.
+2. Asegúrate de tener instaladas las bibliotecas necesarias (Pandas, Matplotlib, Seaborn).
+3. Ejecuta el notebook `Proyecto_Procesamiento_de_Datos-Final.ipynb` para reproducir el análisis.
+4. Explora los gráficos, tablas y conclusiones presentadas.
+
+## Contribución
+Las contribuciones a este proyecto son bienvenidas. Si encuentras algún error o tienes sugerencias de mejora, no dudes en abrir un issue o enviar una solicitud de extracción.
+
+## Licencia
+Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
